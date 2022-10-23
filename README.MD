@@ -20,7 +20,7 @@ m = 3, n = 4.
 
 8 7,8 -7,1 9
 
-[Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task47/Program.cs "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task47/Program.cs "Открыть")
 
 ---
 
@@ -38,7 +38,7 @@ m = 3, n = 4.
 
 (1,7) -> такого числа в массиве нет
 
-[Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task50/Program.cs "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task50/Program.cs "Открыть")
 
 ---
 
@@ -56,6 +56,6 @@ m = 3, n = 4.
 
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
 
-[Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task52/Program.cs "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_21.10.2022/blob/main/Task52/Program.cs "Открыть")
 
 ---
